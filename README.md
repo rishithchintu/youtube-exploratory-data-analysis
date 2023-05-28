@@ -1,4 +1,6 @@
-#youtube-exploratory-data-analysis
+# Youtube Exploratory Data Analysis
+
+Below are the visualizations for the youtube dataset.
 
 ![plt1](https://github.com/rishithchintu/youtube-exploratory-data-analysis/assets/75387341/3fe810f3-5f9e-4d29-bd13-c9b989f8fd10)
 ![plt2](https://github.com/rishithchintu/youtube-exploratory-data-analysis/assets/75387341/548f0d29-95c2-4caf-a1ec-389e2b33b3c2)
