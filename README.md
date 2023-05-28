@@ -1,2 +1,1 @@
-
-![plt1](https://github.com/rishithchintu/youtube-exploratory-data-analysis/assets/75387341/5ccc96d5-76cb-4b2e-bf6d-698f1bf2b146)
+![plt1](https://github.com/rishithchintu/youtube-exploratory-data-analysis/assets/75387341/d6255c0a-8f6d-491b-beb2-f39f21b514a6)
